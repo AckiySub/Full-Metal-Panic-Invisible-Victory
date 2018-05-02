@@ -11,6 +11,22 @@ YCbCr Matrix: TV.601
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Title2Blur-furigana,Century Gothic,45,&H1E000000,&H000000FF,&H00FFFFFF,&H00000000,-1,-1,0,0,100,120,5,0,1,1.5,0,2,0,0,0,204
+Style: Title1Blur-furigana,Arial Black,70,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,-1,0,0,100,120,0,0,1,1.5,0,2,0,0,0,204
+Style: EDUkrainian-furigana,Calibri,37.5,&H00C8CCD7,&H007F88A1,&H0023273E,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0,2,0,0,30,204
+Style: EDRomaji-furigana,Calibri,37.5,&H00F1F2E0,&H00ACB64D,&H00404D00,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0,8,0,0,30,204
+Style: OPUkrainian-furigana,Calibri,37.5,&H00E9CAC5,&H00CB8679,&H007E231A,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0,2,0,0,20,204
+Style: OPRomaji-furigana,Calibri,37.5,&H00E9F5E8,&H0084C781,&H00205E1B,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0,8,0,0,20,204
+Style: Title2-furigana,Century Gothic,45,&H1E000000,&H000000FF,&H00222222,&H00000000,-1,-1,0,0,100,120,5,0,1,0.5,0,2,0,0,0,204
+Style: Title1-furigana,Arial Black,70,&H00000000,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,120,10,0,1,0.5,0,2,0,0,0,204
+Style: EpisodeL-furigana,Philosopher,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.25,0,1,0,0,0,204
+Style: Episode-furigana,Philosopher,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.25,0,2,0,0,0,204
+Style: Signs-furigana,Philosopher,20,&H00C4F9FF,&H000000FF,&H004C4C4C,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,4,0,0,0,204
+Style: MarksLight-furigana,Calibri Light,25,&H00FFFFFF,&H000000FF,&H00343434,&H00000000,-1,0,0,0,100,100,0,0,1,0.5,0,2,0,0,0,204
+Style: MarksL-furigana,Calibri,25,&H00FFFFFF,&H000000FF,&H00343434,&H00000000,-1,0,0,0,100,100,0,0,1,0.5,0,1,0,0,0,204
+Style: Marks-furigana,Calibri,25,&H00FFFFFF,&H000000FF,&H00343434,&H00000000,-1,0,0,0,100,100,0,0,1,0.5,0,2,0,0,0,204
+Style: Alternate-furigana,Calibri,37.5,&H00C8CCD7,&H000000FF,&H002E344E,&H00000000,-1,0,0,0,100,100,0,0,1,0.75,0,2,0,0,30,204
+Style: Default-furigana,Calibri,37.5,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,0,0,30,204
 Style: Default,Calibri,75,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0,0,30,204
 Style: Alternate,Calibri,75,&H00C8CCD7,&H000000FF,&H002E344E,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,2,0,0,30,204
 Style: Marks,Calibri,50,&H00FFFFFF,&H000000FF,&H00343434,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,0,0,0,204
@@ -21,7 +37,7 @@ Style: Episode,Philosopher,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0
 Style: EpisodeL,Philosopher,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,1,0,0,0,204
 Style: Title1,Arial Black,140,&H00000000,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,120,10,0,1,1,0,2,0,0,0,204
 Style: Title2,Century Gothic,90,&H1E000000,&H000000FF,&H00222222,&H00000000,-1,-1,0,0,100,120,5,0,1,1,0,2,0,0,0,204
-Style: OPRomaji,Calibri,75,&H00E9F5E8,&H0084C781,&H00205E1B,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,8,0,0,20,204
+Style: OPRomaji,Calibri,75,&H00C9E6C8,&H006ABB66,&H00205E1B,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,8,0,0,20,204
 Style: OPUkrainian,Calibri,75,&H00E9CAC5,&H00CB8679,&H007E231A,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0,0,20,204
 Style: EDRomaji,Calibri,75,&H00F1F2E0,&H00ACB64D,&H00404D00,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,8,0,0,30,204
 Style: EDUkrainian,Calibri,75,&H00C8CCD7,&H007F88A1,&H0023273E,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0,0,30,204
@@ -308,12 +324,73 @@ Dialogue: 0,0:00:11.54,0:00:12.90,Title1,,0,0,0,,{\blur1\move(990,-100,990,390,8
 Dialogue: 0,0:00:12.90,0:00:16.62,Title1,,0,0,0,,{\fad(0,500)\blur1\move(990,390,990,335,10,50)}СТАЛЕВА ТРИВОГА!
 Dialogue: 0,0:00:13.42,0:00:16.64,Title2,,0,0,0,,{\pos(940,960)\fad(500,500)\blur1}Невидима Перемога
 Dialogue: 0,0:01:47.96,0:01:51.64,EpisodeL,,0,0,0,,{\fad(500,500)\q2\blur1\pos(1050,850)}3 серія:\n{\fs70}Великий один відсоток
+Dialogue: 0,0:22:48.14,0:22:58.44,Signs,,0,0,0,,{\fad(500,200)\blur2\move(1800,775,1400,775,0,1000)}Спеціально для AniTube.in.ua
+Dialogue: 0,0:22:48.14,0:22:58.44,Signs,,0,0,0,,{\fad(500,200)\blur2\\move(1800,840,1400,840,0,1000)}Переклад та оформлення: AckiyBolt
+Dialogue: 0,0:22:48.14,0:22:58.44,Signs,,0,0,0,,{\fad(500,200)\blur2\\move(1800,880,1400,880,0,1000)}Редагування: bills_spirit
 Dialogue: 0,0:24:04.96,0:24:11.43,Episode,,0,0,0,,{\fs90\pos(960,360)}4 серія
 Dialogue: 0,0:24:04.96,0:24:11.43,Episode,,0,0,0,,{\fs100\pos(960,810)}Самотужки
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Marks
 Dialogue: 1,0:18:13.65,0:18:16.49,Marks,,0,0,0,,{\c&H363924&\frz2.403\frx358\fry0\fnArial Black\fscx500\fscy700\pos(1060,600)}2 рік 4 клас
 Dialogue: 0,0:18:13.65,0:18:16.49,Marks,,0,0,0,,{\p1\c&HE7D3C4&\bord0\pos(695,545)}m 351 217 l 366 713 1676 651 1744 167
 Dialogue: 0,0:18:19.49,0:18:22.62,MarksL,,0,0,0,,{\q2\frz358.9\c&HC2D3BD&\bord2\3c&H728E73&\b0\fscx70\pos(330,225)}У зв'язку з терміновою нарадою,\N2 години самостійної роботи
-Dialogue: 1,0:19:57.34,0:19:59.34,Marks,,0,0,0,,{\q2\frz334.1\c&H598DA3&\frx8\fry18\fs66\b1\fnPhilosopher\pos(936.612,338.87)}Храм\nАоі
+Dialogue: 1,0:19:57.34,0:19:59.34,Marks,,0,0,0,,{\q2\frz334.1\c&H598DA3&\frx8\fry18\fs65\b1\fnPhilosopher\pos(936.612,338.87)}Храм\nАоі
 Dialogue: 0,0:19:57.34,0:19:59.34,Marks,,0,0,0,,{\p1\pos(181.3,380.082)\c&H544B56&}m 848 49 l 775 274 871 329 935 109
-Dialogue: 0,0:18:22.62,0:18:22.83,Marks,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,OP \ Tamaru Yamada – Even…if
+Dialogue: 1,0:00:16.87,0:00:28.64,OPRomaji,,0,0,0,,{\kf68}Bo{\kf85}ku{\kf0}-{\kf78}ra {\k37}{\k48}na{\k34}n {\k21}no {\k37}ta{\k21}me {\kf131}ni {\k63}{\kf77}u{\kf81}ma{\kf75}re{\kf72}te {\k47}ki{\k21}ta {\k37}no {\k17}da{\kf126}rō?
+Dialogue: 1,0:00:29.36,0:00:34.88,OPRomaji,,0,0,0,,{\kf83}A{\kf76}i {\kf88}wa {\k32}{\k31}i{\k40}tsu {\k20}mo {\k44}so{\k20}ba {\kf115}ni
+Dialogue: 1,0:00:35.09,0:00:37.38,OPRomaji,,0,0,0,,{\k21}A{\k20}ru {\k37}no {\k14}ni {\k42}zu{\k31}tto {\k30}me {\k37}o
+Dialogue: 1,0:00:37.38,0:00:40.79,OPRomaji,,0,0,0,,{\k22}So{\k22}mu{\k22}ke{\k32}te {\k22}ma{\k35}yo{\k25}tte {\k15}i{\k47}ta {\k16}n {\kf80}da
+Dialogue: 1,0:00:41.08,0:00:46.86,OPRomaji,,0,0,0,,{\k35}Do{\k11}n{\k20}na {\k22}tsu{\kf59}yo{\kf53}i{\k25} {\k20}te{\kf56}tsu {\k35}no {\k22}yo{\k22}ro{\k22}i {\kf172}de
+Dialogue: 1,0:00:47.37,0:00:50.94,OPRomaji,,0,0,0,,{\k20}Ki{\k24}mi {\k18}o {\k22}ma{\kf58}mo{\kf59}rō {\k34}to {\k34}shi{\k31}te {\kf52}mo
+Dialogue: 1,0:00:51.06,0:00:57.54,OPRomaji,,0,0,0,,{\k25}So{\k16}no {\k24}ko{\k24}ko{\k33}ro {\k19}ma{\k23}de {\k37}bo{\k21}ku {\k21}wa {\k18}ma{\k18}mo{\k18}re{\k23}te {\k21}i{\k57}ru {\k47}no{\k29} {\k18}da{\kf63}rō {\kf89}ka?
+Dialogue: 1,0:00:57.81,0:01:00.33,OPRomaji,,0,0,0,,{\k13}Mo{\k27}shi {\k21}mo {\k16}yu{\k23}me {\k20}ga {\k36}yu{\k22}me {\k20}no {\k22}ma{\k36}ma
+Dialogue: 1,0:01:00.33,0:01:03.85,OPRomaji,,0,0,0,,{\kf41}Even {\kf20}if {\kf44}game`s {\kf67}over {\k24}a{\k18}ki{\k18}ra{\k23}me{\k15}na{\k22}i {\k54}yo
+Dialogue: 1,0:01:04.05,0:01:06.63,OPRomaji,,0,0,0,,{\k15}I{\k24}tsu {\k20}mo {\k22}ki{\k20}mi {\k20}ga {\k34}ki{\k23}mi {\k21}no {\k21}ma{\k31}ma
+Dialogue: 1,0:01:06.63,0:01:10.17,OPRomaji,,0,0,0,,{\k25}I{\k39}ra{\k23}re{\k15}ru {\kf43}yō{\kf40} {\fk42}ni {\k20}te {\k18}o {\k17}no{\k18}ba{\k42}se {\k59}ba
+Dialogue: 1,0:01:10.17,0:01:16.21,OPRomaji,,0,0,0,,{\k35}Ko{\k26}ko {\k37}ni {\k40}a{\kf95}ru{\k21} {\k20}i{\k15}ma {\k17}ka{\k25}ko {\k15}mo {\k18}su{\k18}be{\k28}te {\k20}ka{\k20}ga{\k20}ya{\k20}ki{\k27}da{\k21}shi{\k30}te {\k34}ī
+Dialogue: 1,0:01:16.43,0:01:19.44,OPRomaji,,0,0,0,,{\k24}Ki{\k15}mi {\k22}no {\k31}e{\k28}ga{\kf57}o {\kf38}that`s {\kf39}my {\kf58}dream
+Dialogue: 1,0:01:19.56,0:01:22.74,OPRomaji,,0,0,0,,{\k22}Ku{\k16}ra{\k26}ya{\k37}mi {\k26}no {\k42}se{\k50}ka{\k35}i {\k19}de {\k44}mo
+Dialogue: 0,0:00:16.87,0:00:28.64,OPUkrainian,,0,0,0,,Заради чого з'явились ми на світ?
+Dialogue: 0,0:00:29.36,0:00:34.88,OPUkrainian,,0,0,0,,Хоча кохання завжди поруч з нами,
+Dialogue: 0,0:00:35.09,0:00:37.38,OPUkrainian,,0,0,0,,Та здатні погляд відвести лише,
+Dialogue: 0,0:00:37.38,0:00:40.79,OPUkrainian,,0,0,0,,І не знаходити попару потім днями.
+Dialogue: 0,0:00:41.08,0:00:46.86,OPUkrainian,,0,0,0,,Все намагаюсь захистити тебе я,
+Dialogue: 0,0:00:47.37,0:00:50.94,OPUkrainian,,0,0,0,,В кріпких таких, сталевих, обладунках.
+Dialogue: 0,0:00:51.06,0:00:57.54,OPUkrainian,,0,0,0,,Чи серце твоє мені під силу вберегти?
+Dialogue: 0,0:00:57.81,0:01:00.33,OPUkrainian,,0,0,0,,Як мрія та лиш мрією здається,
+Dialogue: 0,0:01:00.33,0:01:03.85,OPUkrainian,,0,0,0,,І як скінчиться гра - не здамся я.
+Dialogue: 0,0:01:04.05,0:01:06.63,OPUkrainian,,0,0,0,,Та буду завжди поруч із тобою,
+Dialogue: 0,0:01:06.63,0:01:10.17,OPUkrainian,,0,0,0,,Якщо протягнеш руку мені ти.
+Dialogue: 0,0:01:10.17,0:01:16.21,OPUkrainian,,0,0,0,,І сьогодення, і минуле - враз усе засяє,
+Dialogue: 0,0:01:16.43,0:01:19.44,OPUkrainian,,0,0,0,,Навіть якщо світ складається з пітьми,
+Dialogue: 0,0:01:19.56,0:01:22.74,OPUkrainian,,0,0,0,,Бо усмішка твоя - то все моє бажання.
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,ED \ Tamaru Yamada – yes
+Dialogue: 2,0:22:48.14,0:22:52.65,EDRomaji,,0,0,0,,{\k34}Dō {\k27}su{\k19}re {\k21}ba {\k42}to{\k37}do{\k33}ku {\k27}no {\k38}da{\kf173}rō
+Dialogue: 2,0:22:54.36,0:22:58.44,EDRomaji,,0,0,0,,{\k28}Tsu{\k25}yo{\k13}i {\k23}ka{\k34}ze {\k22}ni {\k39}ko{\k40}e {\k22}mo {\k20}to{\k21}gi{\kf121}re?
+Dialogue: 2,0:23:00.75,0:23:05.39,EDRomaji,,0,0,0,,{\k39}Na{\k21}n {\k20}no {\k22}ta{\k40}me {\k37}ni {\k39}ta{\k19}ta{\k40}ka{\k57}u {\kf130}no?
+Dialogue: 2,0:23:06.89,0:23:08.98,EDRomaji,,0,0,0,,{\k13}Ki{\k27}zu{\k22}-da{\k13}ra{\k25}ke {\k28}no {\kf81}ai?
+Dialogue: 2,0:23:09.59,0:23:13.95,EDRomaji,,0,0,0,,{\k27}Shi{\k13}n{\k22}de{\k20}ru {\k21}mi{\k20}ta{\k21}i {\k29}ni {\k12}i{\k24}ki{\k36}te {\k41}i{\k29}ru {\k25}se{\k24}ka{\k25}i {\k47}yo
+Dialogue: 2,0:23:13.95,0:23:19.47,EDRomaji,,0,0,0,,{\k27}A{\k16}na{\k19}ta {\k21}o {\k16}ko{\k15}ro{\k23}shi{\k24}ta {\k23}no {\k18}wa {\k21}da{\kf329}re?
+Dialogue: 2,0:23:21.70,0:23:24.48,EDRomaji,,0,0,0,,{\kf21}Can {\kf47}I {\kf88}see {\kf107}you?
+Dialogue: 2,0:23:24.63,0:23:29.08,EDRomaji,,0,0,0,,{\k24}Ko{\k21}no {\k18}i{\k35}no{\k43}chi {\k18}no {\k40}sa{\k39}i{\k41}go {\k36}ni {\k23}ki{\k17}na{\k22}i {\kf77}wa
+Dialogue: 2,0:23:29.39,0:23:34.24,EDRomaji,,0,0,0,,{\k14}A{\k24}sa{\k16}hi {\k22}o {\k22}mi{\k43}te {\k17}i{\k46}ta{\k12}i {\k23}a{\k17}na{\k40}ta {\k16}ni {\k6}i{\k36}da{\k40}ka{\k39}re{\k52}te
+Dialogue: 2,0:23:34.24,0:23:37.06,EDRomaji,,0,0,0,,{\kf31}Can {\kf49}I {\kf80}be {\kf120}true?
+Dialogue: 2,0:23:37.28,0:23:41.72,EDRomaji,,0,0,0,,{\k23}Do{\k20}no {\k12}mi{\k22}chi {\k31}o {\k26}e{\k30}ra{\k30}n{\k28}de {\k16}mi{\k37}te {\k41}mo {\k21}a{\k19}na{\k23}ta {\kf67}no
+Dialogue: 2,0:23:42.03,0:23:44.53,EDRomaji,,0,0,0,,{\k17}O{\k22}mo{\k21}ka{\k13}ge {\k26}sa{\k32}ga{\k29}shi{\k30}te {\k28}shi{\k18}ma{\k14}u
+Dialogue: 2,0:23:44.53,0:23:48.00,EDRomaji,,0,0,0,,{\k34}I{\k24}tsu {\k82}da {\k58}tte {\k32}oh {\k28}se{\k21}me{\kf63}te
+Dialogue: 2,0:23:48.33,0:23:56.75,EDRomaji,,0,0,0,,{\k19}To{\k20}do{\k21}i{\k18}te {\k24}wa{\k51}ta{\k47}shi {\k34}no {\kf608}«yes»
+Dialogue: 0,0:22:48.14,0:22:52.65,EDUkrainian,,0,0,0,,Що маю зробити, щоб ти почув,
+Dialogue: 0,0:22:54.36,0:22:58.44,EDUkrainian,,0,0,0,,Якщо слово єдине краде вітер цей?
+Dialogue: 0,0:23:00.75,0:23:05.39,EDUkrainian,,0,0,0,,Що знову штовхнуло нас у цю битву?
+Dialogue: 0,0:23:06.89,0:23:08.98,EDUkrainian,,0,0,0,,Зранена чи то любов?
+Dialogue: 0,0:23:09.59,0:23:13.95,EDUkrainian,,0,0,0,,Чи світ, живеш в якому мов мертвим ти, нас штовхає знов?
+Dialogue: 0,0:23:13.95,0:23:19.47,EDUkrainian,,0,0,0,,А може й правда тебе в ньому хтось убив?
+Dialogue: 0,0:23:21.70,0:23:24.48,EDUkrainian,,0,0,0,,Чи побачимось?
+Dialogue: 0,0:23:24.63,0:23:29.08,EDUkrainian,,0,0,0,,Адже ніколи може не побачу тебе я,
+Dialogue: 0,0:23:29.39,0:23:34.24,EDUkrainian,,0,0,0,,Але ж так хочу ранок цей зустріти за руку з тобою.
+Dialogue: 0,0:23:34.24,0:23:37.06,EDUkrainian,,0,0,0,,Чи я права?
+Dialogue: 0,0:23:37.28,0:23:41.72,EDUkrainian,,0,0,0,,Яку дорогу не обрала б я, з усіх шляхів,
+Dialogue: 0,0:23:42.03,0:23:44.53,EDUkrainian,,0,0,0,,Усюди бачу образ завжди твій.
+Dialogue: 0,0:23:44.53,0:23:48.00,EDUkrainian,,0,0,0,,Ні, вірю все ж, безсумнівно,
+Dialogue: 0,0:23:48.33,0:23:56.75,EDUkrainian,,0,0,0,,Почуєш ти колись моє «так».
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Scripts
