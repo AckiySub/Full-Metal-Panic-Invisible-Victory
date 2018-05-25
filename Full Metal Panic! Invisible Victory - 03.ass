@@ -11,24 +11,8 @@ YCbCr Matrix: TV.601
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Title2Blur-furigana,Century Gothic,45,&H1E000000,&H000000FF,&H00FFFFFF,&H00000000,-1,-1,0,0,100,120,5,0,1,1.5,0,2,0,0,0,204
-Style: Title1Blur-furigana,Arial Black,70,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,-1,0,0,100,120,0,0,1,1.5,0,2,0,0,0,204
-Style: EDUkrainian-furigana,Calibri,37.5,&H00C8CCD7,&H007F88A1,&H0023273E,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0,2,0,0,30,204
-Style: EDRomaji-furigana,Calibri,37.5,&H00F1F2E0,&H00ACB64D,&H00404D00,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0,8,0,0,30,204
-Style: OPUkrainian-furigana,Calibri,37.5,&H00E9CAC5,&H00CB8679,&H007E231A,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0,2,0,0,20,204
-Style: OPRomaji-furigana,Calibri,37.5,&H00E9F5E8,&H0084C781,&H00205E1B,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0,8,0,0,20,204
-Style: Title2-furigana,Century Gothic,45,&H1E000000,&H000000FF,&H00222222,&H00000000,-1,-1,0,0,100,120,5,0,1,0.5,0,2,0,0,0,204
-Style: Title1-furigana,Arial Black,70,&H00000000,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,120,10,0,1,0.5,0,2,0,0,0,204
-Style: EpisodeL-furigana,Philosopher,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.25,0,1,0,0,0,204
-Style: Episode-furigana,Philosopher,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.25,0,2,0,0,0,204
-Style: Signs-furigana,Philosopher,20,&H00C4F9FF,&H000000FF,&H004C4C4C,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,4,0,0,0,204
-Style: MarksLight-furigana,Calibri Light,25,&H00FFFFFF,&H000000FF,&H00343434,&H00000000,-1,0,0,0,100,100,0,0,1,0.5,0,2,0,0,0,204
-Style: MarksL-furigana,Calibri,25,&H00FFFFFF,&H000000FF,&H00343434,&H00000000,-1,0,0,0,100,100,0,0,1,0.5,0,1,0,0,0,204
-Style: Marks-furigana,Calibri,25,&H00FFFFFF,&H000000FF,&H00343434,&H00000000,-1,0,0,0,100,100,0,0,1,0.5,0,2,0,0,0,204
-Style: Alternate-furigana,Calibri,37.5,&H00C8CCD7,&H000000FF,&H002E344E,&H00000000,-1,0,0,0,100,100,0,0,1,0.75,0,2,0,0,30,204
-Style: Default-furigana,Calibri,37.5,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,0,0,30,204
 Style: Default,Calibri,75,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0,0,30,204
-Style: Alternate,Calibri,75,&H00C8CCD7,&H000000FF,&H002E344E,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,2,0,0,30,204
+Style: Alternate,Calibri,75,&H00C8CCD7,&H000000FF,&H002E344E,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,2,0,0,110,204
 Style: Marks,Calibri,50,&H00FFFFFF,&H000000FF,&H00343434,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,0,0,0,204
 Style: MarksL,Calibri,50,&H00FFFFFF,&H000000FF,&H00343434,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,1,0,0,0,204
 Style: MarksLight,Calibri Light,50,&H00FFFFFF,&H000000FF,&H00343434,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,0,0,0,204
@@ -46,9 +30,9 @@ Style: Title2Blur,Century Gothic,90,&H1E000000,&H000000FF,&H00FFFFFF,&H00000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:02:08.77,0:02:10.48,Alternate,,0,0,0,,{\a6}Реєструю на острові безліч пожеж!
+Dialogue: 0,0:02:08.77,0:02:10.48,Default,,0,0,0,,{\a6}Реєструю на острові безліч пожеж!
 Dialogue: 0,0:02:09.35,0:02:10.72,Default,,0,0,0,,Три бегемоти...
-Dialogue: 0,0:02:10.72,0:02:12.86,Alternate,,0,0,0,,{\a6}Більшість систем перехоплення не працює.
+Dialogue: 0,0:02:10.72,0:02:12.86,Default,,0,0,0,,{\a6}Більшість систем перехоплення не працює.
 Dialogue: 0,0:02:10.72,0:02:12.86,Default,,0,0,0,,Коли вони дістануться берега - питання часу.
 Dialogue: 0,0:02:12.86,0:02:14.65,Default,,0,0,0,,Який статус загону БР?
 Dialogue: 0,0:02:14.90,0:02:16.40,Default,,0,0,0,,У режимі боєготовності.

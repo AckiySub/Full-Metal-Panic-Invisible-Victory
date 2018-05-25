@@ -841,10 +841,10 @@ Dialogue: 0,0:04:12.89,0:04:12.94,Marks,,0,0,0,,{\bord4\blur5\a6\alpha&H55&\3c&H
 Dialogue: 0,0:04:12.94,0:04:14.10,Marks,,0,0,0,,{\bord4\blur5\a6\alpha&H55&\3c&H403E25&\i1\frx4\fry4\pos(993.302,177.667)\fs70\frz351.6}БИТВИ ГІГАНТІВ
 Dialogue: 0,0:13:42.50,0:13:48.51,Marks,,0,0,0,,{\a6\i1}[* див. пояснення в кінці серії]
 Dialogue: 0,0:22:36.53,0:22:42.34,Signs,,0,0,0,,{\a7\fad(500,200)\blur2\move(35,55,800,55,0,1000)}* - В оригіналі знищений мех Сосуке мав назву Арбалест,\Nяку, чомусь, "переклали" у попередніх сезонах.\NАрбалест (або арбаласт) - важкий облоговий арбалет\Nз металевими плечима та механічним зведенням.\NТобто - це технологічніша версія класичного арбалета.\NОскільки це обігрується у наступному діалозі, задля\Nзбереження сенсу було трохи змінено діалог та\N"перекладено" crossbow(арбалет) як самостріл.
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,OP \ Tamaru Yamada – Even…if (English version)
-Dialogue: 1,0:22:51.94,0:22:57.90,OPRomaji,,0,0,0,,{\kf144}Didn't {\kf97}know{\kf27} {\kf41}why {\kf37}we'd {\kf61}received {\kf40}our {\kf149}lives
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,OP \ Tamaru Yamada – Even…if (English version) \ Переклад: bills_spirit
+Dialogue: 1,0:22:51.94,0:22:57.90,OPRomaji,,0,0,0,,{\kf144}Didn't {\kf97}know {\kf27} {\kf41}why {\kf37}we'd {\kf61}received {\kf40}our {\kf149}lives
 Dialogue: 1,0:22:58.08,0:23:03.43,OPRomaji,,0,0,0,,{\kf84}Why {\kf83}we {\kf72}all {\kf75}had {\kf47}come {\kf56}into {\kf21}this {\kf97}world
-Dialogue: 1,0:23:04.40,0:23:09.71,OPRomaji,,0,0,0,,{\kf139}Didn't {\kf97}know{\kf25} {\kf38}how {\kf10}to {\kf47}face {\kf19}the {\kf40}one {\kf116}beside
+Dialogue: 1,0:23:04.40,0:23:09.71,OPRomaji,,0,0,0,,{\kf139}Didn't {\kf97}know {\kf25} {\kf38}how {\kf10}to {\kf47}face {\kf19}the {\kf40}one {\kf116}beside
 Dialogue: 1,0:23:10.13,0:23:13.41,OPRomaji,,0,0,0,,{\kf40}Only {\kf36}I {\kf29}looked {\kf52}away {\kf34}and {\kf60}wandered {\kf26}where {\kf15}to {\kf36}love
 Dialogue: 1,0:23:13.41,0:23:15.85,OPRomaji,,0,0,0,,{\kf34}Though {\kf12}it {\kf19}was {\kf40}always {\kf37}by {\kf14}my {\kf88}side
 Dialogue: 1,0:23:16.12,0:23:21.51,OPRomaji,,0,0,0,,{\kf25}If {\kf17}I {\kf24}have {\kf20}a {\kf61}tough, {\kf96}iron {\kf93}armor {\kf65}protecting {\kf17}the {\kf121}one
